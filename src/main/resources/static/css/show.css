@@ -1,0 +1,14 @@
+body{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-box{
+    border:2px solid;
+    padding: 20px;
+    width: 300px;
+    background-color: cornflowerblue;
+    height: 400px;
+
+}
